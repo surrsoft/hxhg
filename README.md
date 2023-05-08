@@ -1,2 +1,3 @@
 - copy-библиотека
 - TypeScript, JavaScript, React, ...
+- Notion - https://www.notion.so/surr/hxhg-std-library-copy-JS-TS-f93040a2259a4362ad02f542e787621b
